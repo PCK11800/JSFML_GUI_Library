@@ -1,4 +1,4 @@
-package Main;
+package OSHandler;
 
 public class OSChecker {
     public enum OS {

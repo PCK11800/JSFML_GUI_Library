@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JSFML_GUI:jar">
+    <output-path>$PROJECT_DIR$/test/artifacts/JSFML_GUI_jar</output-path>
+    <root id="archive" name="JSFML_GUI.jar">
+      <element id="module-output" name="JSFML_GUI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JSFML/jsfml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JSFML/jsfml-test.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
